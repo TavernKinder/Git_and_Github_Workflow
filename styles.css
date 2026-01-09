@@ -1,8 +1,16 @@
+body{
+	background-color : coral;
+	text-shadow:
+		-1px -1px 0 white,
+		 1px -1px 0 white,
+		-1px  1px 0 white,
+		 1px  1px 0 white;		
+}
 h1{
 	color : green;
 	size: 30px;
 }
 p {
-	color: red;
-	size: 10px;
+	color: blue;
+	size: 15px;
 }
